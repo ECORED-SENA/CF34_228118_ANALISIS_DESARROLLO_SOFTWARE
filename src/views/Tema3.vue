@@ -140,7 +140,7 @@
             .col-lg
               .p-lg-4
                 p #[strong Caso de prueba:] conjunto de condiciones con las cuales un #[em tester] debe determinar si un sistema funciona según lo requerido. 
-                p.mt-4.mb-0 #[strong #[em Script] de prueba:] recopilación de instrucciones que se realizan al #[em software] sujeto a prueba para verificar que el sistema funciona de acuerdo con lo requerido. Hay scripts de pruebas automatizadas y manuales.
+                p.mt-4.mb-0 #[strong #[em Script] de prueba:] recopilación de instrucciones que se realizan al #[em software] sujeto a prueba para verificar que el sistema funciona de acuerdo con lo requerido. Hay #[em scripts] de pruebas automatizadas y manuales.
         .cont_3_4_3.p-4.p-lg-0(data-aos="zoom-in")
           .row
             .col-lg-auto.pe-lg-0.mb-4.mb-lg-0(style="place-self:center;")
@@ -184,7 +184,7 @@
               li.d-flex
                 .lista-ol--cuadro__vineta(style="background-color:#2CFEDF;")
                   span.fw-bold(style="color:initial;") 3
-                div En esta parte se listan los tipos de prueba a realizar y los requerimientos a probar en el proceso. Se específica y describe las características a probar y las que no se van a probar.
+                div En esta parte se listan los tipos de prueba a realizar y los requerimientos a probar en el proceso. Se especifica y describe las características a probar y las que no se van a probar.
               li.d-flex
                 .lista-ol--cuadro__vineta(style="background-color:#2CFEDF;")
                   span.fw-bold(style="color:initial;") 4
@@ -488,7 +488,7 @@ export default {
   bottom: 5%
   background-color: #D6E1FD
   border-radius: 17px
-  background-image: url(../assets/curso/intro3.png)
+  background-image: url(../assets/curso/tema3/26.png)
   background-size: 100% 100%
 .tabs-a.color-acento-botones .tabs-a__tab__selected
   color: #12263F

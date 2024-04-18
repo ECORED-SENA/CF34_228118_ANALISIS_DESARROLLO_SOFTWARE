@@ -765,7 +765,7 @@
         .col(style="place-self:center;")
           h4.mb-0.pe-4.text-white(style="padding-top:7px;") Modelo FURPS
     
-    p(data-aos="fade-left") Este modelo lo desarrolló Hewlett-Packard en el año 1987. Incluye el desarrollo de una serie de factores de calidad de #[em software], teniendo en cuenta el acrónimo de FURPS: funcionalidad (#[em Functionality]), usabilidad (#[em Usability]), confiabilidad (#[em Reliability]), desempeño (#[em Performance]) y capacidad de soporte (#[em Supportability]). En la siguiente tabla se establecen los factores y los criterios de calidad.
+    p(data-aos="fade-left") Este modelo lo desarrolló Hewlett-Packard en el año 1987. Incluye el desarrollo de una serie de factores de calidad de #[em software], teniendo en cuenta el acrónimo de FURPS: funcionalidad (#[em Functionality]), usabilidad (#[em Usability]), confiabilidad (#[em Reliability]), desempeño (#[em #[em ]) y capaci]dad de soporte (#[em Supportability]). En la siguiente tabla se establecen los factores y los criterios de calidad.
 
     .col-xl-6.col-lg-10.m-auto.mt-5
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
@@ -840,7 +840,7 @@
                 div Aplicaciones primarias.
               li.d-flex
                 i.fa.fa-code(style="color:#8722E2;")
-                div Construcciones Intermedias (factores).
+                div Construcciones intermedias (factores).
               li.d-flex
                 i.fa.fa-code(style="color:#8722E2;")
                 div Construcciones primitivas.
@@ -905,7 +905,7 @@
         .col(style="place-self:center;")
           h4.mb-0.pe-4.text-white(style="padding-top:7px;") ISO/IEC 9126
     
-    p(data-aos="fade-left") Es un estándar internacional para la evaluación de la calidad del #[em software], que se aplica a diversos tipos de #[em software]. No obstante, en el 2005 fue reemplazado por el conjunto de normas Square. Sus características se pueden observar en la siguiente tabla.
+    p(data-aos="fade-left") Es un estándar internacional para la evaluación de la calidad del #[em software], que se aplica a diversos tipos de #[em software]. No obstante, en el 2005 fue reemplazado por el conjunto de normas SQuaRE (#[em System and Software Quality Requirements and Evaluation]). Sus características se pueden observar en la siguiente tabla.
 
     .col-xl-6.col-lg-10.m-auto.mt-5
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
@@ -1021,7 +1021,7 @@
                 .row.justify-content-center.mb-3
                   .col-4
                     img(src='@/assets/curso/tema2/45.svg')
-                h5.text-center.bg-white.m-auto.mt-4 Corección
+                h5.text-center.bg-white.m-auto.mt-4 Corrección
                 p.text-center.mt-4.mb-0 Nivel en que un #[em software] satisface las especificaciones y logra los objetivos propuestos por el cliente; lo anterior responde a la pregunta: ¿el #[em software] hace lo que yo quiero?
 
               .tarjeta.color-acento-botones.p-4.m-auto.bg-white
@@ -1176,7 +1176,7 @@
         
         .row
           .col(data-aos="fade-right" style="place-self:center;")
-            p La mejora de la calidad de #[em software] contiene procesos que ayudan a que los ingenieros de #[em software] manejen, controlen y mejoren el trabajo, teniendo también la oportunidad de construir equipos auto dirigidos y ser participantes efectivos del mismo, pero se debe tener en cuenta que primero deben tener el conocimiento para controlar y mejorar su trabajo, y después tener el conocimiento para trabajar en equipo. Por lo anterior el ingeniero podrá plantear mucho mejor el trabajo, medir la calidad del producto, mejorar las técnicas y determinar las medidas estándares para desempeño y calidad. En la calidad relacionada con las personas se establecen dos procesos PSP y TSP que proporcionan métodos detallados de planificación y estimación.
+            p La mejora de la calidad de #[em software] contiene procesos que ayudan a que los ingenieros de #[em software] manejen, controlen y mejoren el trabajo, teniendo también la oportunidad de construir equipos autodirigidos y ser participantes efectivos del mismo, pero se debe tener en cuenta que primero deben tener el conocimiento para controlar y mejorar su trabajo, y después tener el conocimiento para trabajar en equipo. Por lo anterior el ingeniero podrá plantear mucho mejor el trabajo, medir la calidad del producto, mejorar las técnicas y determinar las medidas estándares para desempeño y calidad. En la calidad relacionada con las personas se establecen dos procesos PSP y TSP que proporcionan métodos detallados de planificación y estimación.
           .col-auto.d-none.d-lg-block(data-aos="fade-left" style="place-self:center;")
             figure
               img(src="@/assets/curso/tema2/65.svg")
@@ -1337,7 +1337,7 @@
             div Conformar equipos de tal forma que tengan la capacidad de registrar y planear su trabajo, constituir metas bien definidas y que tengan la aptitud para mejorar su propio trabajo a través de la medición del mismo.
           li.d-flex
             i.fa.fa-code(style="color:#8722E2 !important;")
-            div Establecer un marco en base a PSP.
+            div Establecer un marco con base en PSP.
           li.d-flex
             i.fa.fa-code(style="color:#8722E2 !important;")
             div Establecer estándares para medir la calidad y el comportamiento.
@@ -1557,8 +1557,8 @@
       .row
         .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
           p La vertiente ágil en el desarrollo de #[em software] pretende distribuir de forma permanente y continua el proceso de desarrollo distribuido en iteraciones rápidas.
-          p.mt-4 Sin embargo, el término de “metodología ágil” es engañoso dado que implica que el enfoque ágil es la única manera de abordar el desarrollo de #[em software].  En esta vertiente no se define una serie de pasos o de indicaciones sobre el qué hacer en el proceso de desarrollo de #[em software], por el contrario, trata de una forma de pensar en colaboración y los flujos de trabajo, en el cual se definen una serie de valores que orientan las decisiones respecto a lo que se hace y la forma en que se hace. 
-          p.mt-4 Las metodologías ágiles buscan generar una serie de piezas que agregan valor y satisfacción al cliente. En estas metodologías se implementan enfoques flexibles y de trabajo en equipo para mejorar el performance del proceso, con la finalidad de ofrecer mejoras constantes. 
+          p.mt-4 Sin embargo, el término de “metodología ágil” es engañoso dado que implica que el enfoque ágil es la única manera de abordar el desarrollo de #[em software].  En esta vertiente no se define una serie de pasos o de indicaciones sobre el quehacer en el proceso de desarrollo de #[em software], por el contrario, trata de una forma de pensar en colaboración y los flujos de trabajo, en el cual se definen una serie de valores que orientan las decisiones respecto a lo que se hace y la forma en que se hace. 
+          p.mt-4 Las metodologías ágiles buscan generar una serie de piezas que agregan valor y satisfacción al cliente. En estas metodologías se implementan enfoques flexibles y de trabajo en equipo para mejorar el #[em performance] del proceso, con la finalidad de ofrecer mejoras constantes. 
         .col-lg-4(data-aos="fade-left")
           figure.m-auto.col-6.col-md-5.col-lg-12
             img(src="@/assets/curso/tema2/87.png")
@@ -1685,7 +1685,7 @@
                 i.fa.fa-code(style="color:#8722E2 !important;")
                 div Pruebas de Prototipos y simulaciones.
             p.mt-4 Las pruebas y las funcionalidades de este cuadrante detallan cada historia de usuario, además también pueden ser automatizadas, no obstante, es necesario que algunas de estas pruebas sean ejecutadas desde la interfaz de usuario o lo que es lo mismo desde el punto de vista del cliente. 
-            p.mt-4 En las pruebas de este cuadrante, los diseñadores de la interfaz de usuario crean wireframes para realizar en primera instancia, validaciones con el cliente, y posteriormente iniciar con el desarrollo.
+            p.mt-4 En las pruebas de este cuadrante, los diseñadores de la interfaz de usuario crean #[em wireframes] para realizar en primera instancia, validaciones con el cliente, y posteriormente iniciar con el desarrollo.
           .col-lg-4(style="place-self:center;")
             figure.m-auto.col-6.col-md-5.col-lg-12
               img(src='@/assets/curso/tema2/92.svg')

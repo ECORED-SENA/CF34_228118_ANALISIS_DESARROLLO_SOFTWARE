@@ -9,7 +9,7 @@
       h1 Introducción
     
     .cont_intro1
-      p(data-aos="fade-up") Bienvenidos a este componente, en donde trataremos el tema relacionado con los Fundamentos de la calidad del #[em software.]
+      p(data-aos="fade-up") Bienvenidos a este componente, en donde trataremos el tema relacionado con los fundamentos de la calidad del #[em software.]
       .row.mt-4
         .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
           p Recordemos que implementar buenas prácticas, definir adecuadamente los proceso, ser flexibles ante las diferentes metodologías y herramientas, y tener un personal capacitado en las fases de pruebas y calidad, se convierte en un desafío cada vez más grande, al cual se ven enfrentadas las empresas que construyen #[em software].

@@ -86,7 +86,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Marco de referencia',
+        titulo: 'Documentar el proceso de calidad de <em>software</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -177,7 +177,7 @@ export default {
     },
     {
       tema: '',
-      referencia: 'SO/IEC/IEEE 29148:2011. (s. f.). ISO. ',
+      referencia: 'ISO/IEC/IEEE 29148:2011. (s. f.). ISO. ',
       tipo: 'Página web',
       link: 'https://www.iso.org/standard/45171.html',
     },
@@ -223,11 +223,6 @@ export default {
       referencia:
         'Bustamante Ramírez, J. (2011). <em>Sistema de informes para pruebas de software</em>',
       link: 'http://bibliotecadigital.iue.edu.co/xmlui/handle/20.500.12717/153',
-    },
-    {
-      referencia:
-        'Clemente, P. J., & Gómez, A. (2014). <em>Aplicación de un proceso de mejora continua en una asignatura de Desarrollo de Software Dirigido por Modelos</em>.',
-      link: 'http://hdl.handle.net/2099/15497',
     },
     {
       referencia:
@@ -344,6 +339,12 @@ export default {
         {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Margarita Marcela Medrano Gómez',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },

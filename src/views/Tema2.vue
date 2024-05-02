@@ -1768,7 +1768,7 @@
               p.mb-0(style="color:#12263F;") Esta práctica sugiere hacer iteraciones cortas con funcionalidades pequeñas que puedan ser probadas con el cliente, de forma que se obtiene realimentación temprana y frecuente.
             .tarjeta.color-acento-botones.p-3(x="86%" y="0%" numero="+" style="background-color:#ECF2FE;")
               h5(style="color:#12263F;") Metáfora
-              p.mb-0(style="color:#12263F;") Los nombres usados para definir cualquier tipo de identificador en el sistema debe ser coherente. El diseño y la estructura general debe ser comprensible para cualquier persona.
+              p.mb-0(style="color:#12263F;") Los nombres usados para definir cualquier tipo de identificador en el sistema deben ser coherentes. El diseño y la estructura general debe ser comprensible para cualquier persona.
             .tarjeta.color-acento-botones.p-3(x="14%" y="25%" numero="+" style="background-color:#ECF2FE;")
               h5(style="color:#12263F;") Refactorización
               p.mb-0(style="color:#12263F;") Eliminación de funciones innecesarias, desacoplar elementos, eliminar cualquier tipo de redundancia de forma que se mantenga un código lo más limpio posible, que sea fácil de entender y modificar.
@@ -1815,7 +1815,7 @@
               p.mb-0(style="color:#12263F;") Todo el equipo es dueño del sistema, esto promueve la cooperación y la libertad de cada miembro para aportar nuevas ideas.
             .tarjeta.color-acento-botones.p-3(x="23%" y="35.5%" numero="+" style="background-color:#ECF2FE;")
               h5(style="color:#12263F;") Metáfora
-              p.mb-0(style="color:#12263F;") Los nombres usados para definir cualquier tipo de identificador en el sistema debe ser coherente. El diseño y la estructura general debe ser comprensible para cualquier persona.
+              p.mb-0(style="color:#12263F;") Los nombres usados para definir cualquier tipo de identificador en el sistema deben ser coherentes. El diseño y la estructura general debe ser comprensible para cualquier persona.
             .tarjeta.color-acento-botones.p-3(x="77%" y="35.5%" numero="+" style="background-color:#ECF2FE;")
               h5(style="color:#12263F;") Integración continua
               p.mb-0(style="color:#12263F;") Implica el uso de sistema de control de versiones de forma que el código pueda ser compartido o reutilizado, pero también cada persona pueda trabajar de forma independiente y en paralelo sobre el mismo proyecto.

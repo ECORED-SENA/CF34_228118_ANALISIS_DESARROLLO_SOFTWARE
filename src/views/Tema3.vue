@@ -234,7 +234,7 @@
     .col-xl-8.col-lg-10.m-auto.mt-5
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
         h5 Tabla 5.
-        span Principales elementos de una casos de prueba
+        span Principales elementos de una caso de prueba
       .tabla-a.color-acento-botones(data-aos="zoom-in-up")
         table(style="min-width:100%;")
           thead(style="border:0;")

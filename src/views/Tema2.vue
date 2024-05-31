@@ -284,7 +284,7 @@
             ul.lista-ul.mt-4
               li.d-flex
                 i.fa.fa-code(style="color:#FFCE00 !important;")
-                div No se definen desventajas específicamente en cuanto a estas normas puesto que se crea un marco de calidad a nivel internacional.
+                div No se definen desventajas específicamente en cuanto a estas normas, puesto que se crea un marco de calidad a nivel internacional.
               li.d-flex
                 i.fa.fa-code(style="color:#FFCE00 !important;")
                 div Tener en cuenta estas normas es un proceso tedioso, no obstante, el resultado es óptimo y positivo.
@@ -342,7 +342,7 @@
 
     .cont_2_3.pb-5
       p(data-aos="fade-left" style="position:relative;") Un nivel de madurez bien definido con las bases necesarias para evolucionar hacia un proceso de #[em software] maduro. 
-      p(data-aos="fade-right" style="position:relative;") Los niveles representados por etapas, consideran cinco niveles de madurez, los cuales contienen un conjunto de áreas de proceso predefinidas, los cuales se miden por objetivos generales y específicos, estos se aplican a los conjuntos predefinidos en cada área de proceso. Veamos su distribución:
+      p(data-aos="fade-right" style="position:relative;") Los niveles representados por etapas, consideran cinco niveles de madurez, los cuales contienen un conjunto de áreas de proceso predefinidas, las cuales se miden por objetivos generales y específicos, estos se aplican a los conjuntos predefinidos en cada área de proceso. Veamos su distribución:
       .col-xl-8.m-auto.mt-5(style="position:relative;")
         .pt-5.pb-5.bg-white(style="border-radius:15px;")
           .col-xl-10.m-auto
@@ -543,7 +543,7 @@
           .row(titulo="Equipo")
             p La calidad del #[em software] solo se logra con la contribución de todas las personas involucradas, es decir, que la calidad no es un proceso solo del equipo de aseguramiento de la calidad de #[em software], sino más bien una actividad sincrónica entre todas las personas que colaboran para el desarrollo del producto.
           .row(titulo="Planificación")
-            p La gestión y la planificación de la calidad debe ser eficaz y previamente definido y ejecutado, por lo tanto, se deben establecer procesos, estándares y una planeación claramente definida para poder asegurar la calidad del producto, donde contengan puntos de verificación y un proceso claro y definido que incluya que, quien, y cuando, va a realizar la verificación o medición de la calidad. 
+            p La gestión y la planificación de la calidad debe ser eficaz y previamente definido y ejecutado, por lo tanto, se deben establecer procesos, estándares y una planeación claramente definida para poder asegurar la calidad del producto, donde contengan puntos de verificación y un proceso claro y definido que incluya qué, quíen, y cuándo, va a realizar la verificación o medición de la calidad. 
       .col-lg-5(data-aos="fade-left" style="place-self:center;")
         figure.m-auto.col-7.col-md-7.col-lg-12.d-none.d-lg-block
           img(src="@/assets/curso/tema2/31.png")
@@ -561,7 +561,7 @@
           .row(titulo="Productividad")
             p La calidad al igual que la productividad, los costos y los plazos de entrega están al mismo nivel, lo que quiere decir que el cumplimiento de los plazos de entrega y mantenerse dentro del presupuesto también son variables que se evalúan dentro del proceso de aseguramiento de calidad de #[em software], porque de qué sirve un producto sin defectos cuando ha costado mucho más de lo presupuestado y se ha entregado cuando ya no será útil.
           .row(titulo="Participación")
-            p Es esencial la participación de la dirección, que ha de propiciar la calidad, esto quiere decir que la dirección debe ser el primer interesado en asegurar la calidad y de proveer las directrices, herramientas y el apoyo necesarios para que se pueda lograr, por lo tanto si no hay apoyo de la dirección para implementar y ejecutar el proceso de aseguramiento de calidad del #[em software], será difícil que se pueda llevar a cabo la calidad y por ende los productos no van a salir con la calidad requerida.
+            p Es esencial la participación de la dirección, que ha de propiciar la calidad, esto quiere decir que la dirección debe ser el primer interesado en asegurar la calidad y de proveer las directrices, herramientas y el apoyo necesario para que se pueda lograr, por lo tanto, si no hay apoyo de la dirección para implementar y ejecutar el proceso de aseguramiento de calidad del #[em software], será difícil que se pueda llevar a cabo la calidad y por ende los productos no van a salir con la calidad requerida.
     
     .cont_titulo_decorativo.mt-5(data-aos="fade-right")
       .row
@@ -624,7 +624,7 @@
                   img(src="@/assets/curso/tema2/35.svg" style="max-width:120px;display:inline;margin-top:-55px;")
               .p-4.pt-0.text-center.mt-4 
                 h4 Planificación
-                p.mt-3 Se planifica que es lo que se va a probar, es decir se define el alcance de las pruebas.
+                p.mt-3 Se planifica que es lo que se va a probar, es decir, se define el alcance de las pruebas.
           .col-lg.col-md-8.mb-5.mb-lg-0(data-aos="zoom-in")
             .h-100.cont_hover1(style="background-color:#DCECFE;border-radius:12px;")
               .text-center 
@@ -727,12 +727,12 @@
               td.text-center(style="border:1px #E8E8E8 solid;") 
                 p.mb-0 Simplicidad.
                 p.mb-0 Instrumentación. 
-                p.mb-0 Auto-descripción.
+                p.mb-0 Autodescripción.
                 p.mb-0 Modularidad.
             tr(style="background-color:#F6F6F6;")
               td(style="border:1px #E8E8E8 solid;") Flexibilidad: facilidad de hacer los cambios necesarios según lo solicitado en el entorno operativo.
               td.text-center(style="border:1px #E8E8E8 solid;") 
-                p.mb-0 Auto-descripción.
+                p.mb-0 Autodescripción.
                 p.mb-0 Capacidad de expansión. 
                 p.mb-0 Generalidad.
                 p.mb-0 Modularidad.
@@ -741,7 +741,7 @@
             tr(style="background-color:#F6F6F6;")
               td(style="border:1px #E8E8E8 solid;") Reusabilidad: facilidad de reutilización de #[em software] en un contexto diferente.
               td.text-center(style="border:1px #E8E8E8 solid;") 
-                p.mb-0 Auto-descripción.
+                p.mb-0 Autodescripción.
                 p.mb-0 Generalidad.
                 p.mb-0 Modularidad.
             tr(style="background-color:#F6F6F6;")
@@ -883,13 +883,13 @@
                 p.mb-0 Accesibilidad.
                 p.mb-0 Comunicatividad.
                 p.mb-0 Estructuración.
-                p.mb-0 Auto-descripción.
+                p.mb-0 Autodescripción.
             tr(style="background-color:#F6F6F6;")
               td.text-center(style="border:1px #E8E8E8 solid;") Comprensibilidad
               td(style="border:1px #E8E8E8 solid;") 
                 p.mb-0 Consistencia.
                 p.mb-0 Estructuración.
-                p.mb-0 Auto-descripción.
+                p.mb-0 Autodescripción.
                 p.mb-0 Concisión.
                 p.mb-0 Legibilidad.
                 p.mb-0 Expansibilidad.
@@ -1166,7 +1166,7 @@
               p.mb-0 En la aplicación de la calidad de #[em software], generalmente los ingenieros o empresas comienzan a realizar pruebas y a detectar defectos en el momento en que la aplicación ha sido totalmente construida lo cual no es una acción correcta.
           .p-4.mt-4(style="background-color:#3A1D71;border-radius:7px;")
             p.fw-bold.ps-1.pe-1(style="background-color:#2CFEDF;max-width:fit-content;") Conclusión de los factores que afectan o determinan la calidad del #[em software]
-            p.mt-4.mb-0.text-white Cuando calificamos la calidad de un producto se debe elegir los factores que van a ser estimados como requerimientos, por lo tanto, para realizar esta elección se debe tener en cuenta las propiedades particulares de la aplicación a desarrollar o de su ambiente, como ejemplo podemos observar que si la aplicación se desarrolla para un ambiente en el que el hardware evoluciona rápidamente entonces debemos tener en cuenta el factor de portabilidad, por otro lado si se espera que las especificaciones del sistema cambien frecuentemente entonces el factor flexibilidad va a ser importante. Otro punto que se debe tener en cuenta es el costo de los factores de calidad frente al beneficio que van a proporcionar (análisis de costo/beneficio), es decir que si agregamos todos los factores implicaría un incremento amplio de los costos, en lugar de lo anterior es prudente seleccionar los factores que logren contribuir el mayor valor posible al producto.
+            p.mt-4.mb-0.text-white Cuando calificamos la calidad de un producto se debe elegir los factores que van a ser estimados como requerimientos, por lo tanto, para realizar esta elección se debe tener en cuenta las propiedades particulares de la aplicación a desarrollar o de su ambiente, como ejemplo podemos observar que si la aplicación se desarrolla para un ambiente en el que el #[em hardware] evoluciona rápidamente entonces debemos tener en cuenta el factor de portabilidad, por otro lado, si se espera que las especificaciones del sistema cambien frecuentemente entonces el factor flexibilidad va a ser importante. Otro punto que se debe tener en cuenta es el costo de los factores de calidad frente al beneficio que van a proporcionar (análisis de costo/beneficio), es decir que si agregamos todos los factores implicaría un incremento amplio de los costos, en lugar de lo anterior es prudente seleccionar los factores que logren contribuir el mayor valor posible al producto.
       
       .apply_relative
         Separador
@@ -1375,7 +1375,7 @@
           p.mb-0(style="color:#12263F;") En esta fase se determinan entrevistas con el cliente, con el objetivo de concretar lo que es necesario producir en realidad. Desarrollar un plan de pruebas para el producto terminado previamente al análisis de los requerimientos.
         .tarjeta.color-acento-botones.p-3(x="56%" y="28%" numero="+" style="background-color:#ECF2FE;")
           h5(style="color:#12263F;") Diseño
-          p.mb-0(style="color:#12263F;") En esta etapa se desarrolla un plan de pruebas de integración, por lo tanto se especifica en un diseño, todos los detalles respecto a los procesos del producto. 
+          p.mb-0(style="color:#12263F;") En esta etapa se desarrolla un plan de pruebas de integración, por lo tanto, se especifica en un diseño, todos los detalles respecto a los procesos del producto. 
         .tarjeta.color-acento-botones.p-3(x="65%" y="37%" numero="+" style="background-color:#ECF2FE;")
           h5(style="color:#12263F;") Implementación
           p.mb-0(style="color:#12263F;") En esta etapa el diseño se transfiere a nivel de código, realizando una revisión con el propósito de encontrar errores. También los módulos y las unidades se compilan y ejecutan con el propósito de analizar su calidad.
@@ -1439,7 +1439,7 @@
               .row(titulo="Adaptación")
                 p Por medio de la transparencia y la inspección es posible fijar actividades de mejoras que permitan mejorar todo tipo de proceso, en pro de lograr más altos estándares de calidad. 
         
-        p.mt-5(data-aos="fade-right") Adicionalmente, este marco de trabajo ágil, está estructurado por un conjunto de roles, eventos y artefactos como se observa en la siguiente figura.
+        p.mt-5(data-aos="fade-right") Adicionalmente, este marco de trabajo ágil, está estructurado por un conjunto de roles, eventos y artefactos, como se observa en la siguiente figura.
 
         .col-xl-11.m-auto.mt-4
           .row
@@ -1459,7 +1459,15 @@
               .text-center 
                 figure
                   img(src="@/assets/curso/tema2/81.svg" style="max-width:120px;display:inline;margin-top:-55px;")
+              .p-4.pt-0.text-center.mt-4 amiento personal, debe velar porque los elementos propios del marco de trabajo Scrum se apliquen de manera correcta.
+          .col-lg.col-md-8(data-aos="zoom-in")
+            .h-100.cont_hover1(style="background-color:#DCECFE;border-radius:12px;")
+              .text-center 
+                figure
+                  img(src="@/assets/curso/tema2/83.svg" style="max-width:120px;display:inline;margin-top:-55px;")
               .p-4.pt-0.text-center.mt-4 
+                h4 Equipo de desarrollo (#[em Developer team])
+                p.mt-3 Son los responsables de la transformación de los requerimientos en código ejecutable a ser usado por el cliente, pero también son responsables de la planificación de las iteraciones y establecimiento de características para tener en cuenta en 
                 h4 Dueño del producto (#[em Product Owner])
                 p.mt-3 Persona con amplio conocimiento en el negocio del cliente, sus necesidades y las tendencias del mercado para el área específica. Este rol está encargado de maximizar el valor de negocio entregado al cliente y es el único responsable del control del #[em Product Backlog] (requerimientos) y su priorización. Este rol también representa al cliente en algunos procesos de demostración de avances y determina cuándo aprobar o no una entrega.
           .col-lg.col-md-8.mb-5.mb-lg-0(data-aos="zoom-in")
@@ -1469,15 +1477,7 @@
                   img(src="@/assets/curso/tema2/82.svg" style="max-width:120px;display:inline;margin-top:-55px;")
               .p-4.pt-0.text-center.mt-4 
                 h4 #[em Scrum Master]
-                p.mt-3 Es un rol que se encarga de facilitar los procesos al interior del equipo de trabajo, removiendo cualquier impedimento y apoyando procesos de empoderamiento personal, debe velar porque los elementos propios del marco de trabajo Scrum se apliquen de manera correcta.
-          .col-lg.col-md-8(data-aos="zoom-in")
-            .h-100.cont_hover1(style="background-color:#DCECFE;border-radius:12px;")
-              .text-center 
-                figure
-                  img(src="@/assets/curso/tema2/83.svg" style="max-width:120px;display:inline;margin-top:-55px;")
-              .p-4.pt-0.text-center.mt-4 
-                h4 Equipo de desarrollo (#[em Developer team])
-                p.mt-3 Son los responsables de la transformación de los requerimientos en código ejecutable a ser usado por el cliente, pero también son responsables de la planificación de las iteraciones y establecimiento de características para tener en cuenta en la verificación de un requerimiento terminado y presentación de avances a los clientes. Generalmente es un equipo auto organizado y auto gestionado.
+                p.mt-3 Es un rol que se encarga de facilitar los procesos al interior del equipo de trabajo, removiendo cualquier impedimento y apoyando procesos de empoderla verificación de un requerimiento terminado y presentación de avances a los clientes. Generalmente es un equipo autoorganizado y autogestionado.
         .semicircle_absolute.d-none.d-md-block(style="top: unset !important;bottom: -40px;")
       p.mt-5(data-aos="fade-right" style="position:relative;") Además de los roles, Scrum define un conjunto de eventos con participantes y objetivos claros que se desarrollan en momentos particulares del flujo general de Scrum, a continuación, se detalla cada uno de estos eventos:
 
@@ -1508,11 +1508,11 @@
             p(style="color:#12263F;") Lista priorizada de requerimientos generalmente descritos en formato de historias de usuarios, que representa todas las características del sistema a construir.
           .tarjeta.color-acento-botones.p-4(titulo="Pila del Sprint <br>(<em>Sprint Backlog</em>)" style="background-color:#E8EEFE;")
             h4(style="color:#12263F;") Pila del Sprint (#[em(style="color:#12263F;") Sprint Backlog])
-            p(style="color:#12263F;") Lista de requerimientos seleccionados desde el Product backlog por el equipo de trabajo, para ser desarrollados durante un Sprint particular. Este es un de los artefactos generados en la reunión de planeación del Sprint.
+            p(style="color:#12263F;") Lista de requerimientos seleccionados desde el Product backlog por el equipo de trabajo, para ser desarrollados durante un Sprint particular. Este es uno de los artefactos generados en la reunión de planeación del Sprint.
           .tarjeta.color-acento-botones.p-4(titulo="<em>Burndown Chart</em>" style="background-color:#E8EEFE;")
             h4(style="color:#12263F;") #[em(style="color:#12263F;") Burndown Chart]
             p(style="color:#12263F;") Es un gráfico de dos ejes que muestra a los equipos la cantidad de trabajo pendiente por completar (eje Y) y el tiempo disponible para hacerlo (eje X). 
-            p.mt-3(style="color:#12263F;") Este gráfico generalmente se realiza por cada Sprint, ubicando la cantidad trabajo a realizar del Sprint Backlog (usualmente mide puntos de historia o horas de trabajo) en un tiempo 0 y por cada día finalizado se resta la cantidad de puntos de historia u horas de cada tarea completada, también es posible usar este mismo gráfico para representar el avance general del proyecto, ubicando en el eje Y la cantidad total de horas o esfuerzo del Product Backlog y en el eje X la cantidad de Sprint proyectados. Cada uno de estos puntos se unen por medio de una línea y es posible determinar visualmente si el flujo de trabajo está en una situación óptima o no respecto al tiempo restante para completar el Sprint.
+            p.mt-3(style="color:#12263F;") Este gráfico generalmente se realiza por cada Sprint, ubicando la cantidad trabajo a realizar del Sprint Backlog (usualmente mide puntos de historia u horas de trabajo) en un tiempo 0 y por cada día finalizado se resta la cantidad de puntos de historia u horas de cada tarea completada, también es posible usar este mismo gráfico para representar el avance general del proyecto, ubicando en el eje Y la cantidad total de horas o esfuerzo del Product Backlog y en el eje X la cantidad de Sprint proyectados. Cada uno de estos puntos se unen por medio de una línea y es posible determinar visualmente si el flujo de trabajo está en una situación óptima o no respecto al tiempo restante para completar el Sprint.
           .tarjeta.color-acento-botones.p-4(titulo="Tablero de Scrum <br>(<em>Scrumboard</em>)" style="background-color:#E8EEFE;")
             h4(style="color:#12263F;") Tablero de Scrum (#[em(style="color:#12263F;") Scrumboard])
             p(style="color:#12263F;") Es un elemento visual en donde se integra la mayor parte de los elementos del marco de trabajo Scrum, en él se indica la carga de trabajo, el estado actual de cada una de las actividades y sus respectivos responsables. Este es un elemento que se sincroniza de manera permanente y facilita la implementación los pilares de transparencia, inspección y adaptabilidad. 
@@ -1595,7 +1595,7 @@
           .p-4.mt-4(style="background-color:#AEC4FA;border-radius:12px;")
             p.mb-0 En un proyecto ágil vamos a tener iteraciones o #[em sprints], cada #[em sprint] tiene una duración que no es muy extensa aproximadamente dos a cuatro semanas; al final de cada iteración ya están definidas funcionalidades que pueden ser utilizadas por el cliente. En los proyectos ágiles existen dos tipos de planificaciones: #[em release]/entrega y #[em sprint]/iteración; no obstante, estas se pueden dar en un mismo momento, es decir, que puede incluir una sola planificación con actividades tanto del #[em release] como del #[em sprint]. Se debe tener en cuenta que en un proyecto ágil las pruebas de #[em software] se realizan en cada iteración.
       
-      p.mt-4(data-aos="fade-right") La metodología de desarrollo de #[em software] en cascada utiliza diferentes tipos de pruebas de #[em software] que probaran tanto requerimientos funcionales como no funcionales de manera secuencial. No obstante, en metodologías ágiles específicamente en las pruebas agiles, también se consideran varios tipos de pruebas, pero teniendo en cuenta que se utilizan sprints o interacciones cortas e integraciones continuas, entre los equipos de desarrollo, diseño y pruebas.
+      p.mt-4(data-aos="fade-right") La metodología de desarrollo de #[em software] en cascada utiliza diferentes tipos de pruebas de #[em software] que probaran tanto requerimientos funcionales como no funcionales de manera secuencial. No obstante, en metodologías ágiles específicamente en las pruebas ágiles, también se consideran varios tipos de pruebas, pero teniendo en cuenta que se utilizan sprints o interacciones cortas e integraciones continuas, entre los equipos de desarrollo, diseño y pruebas.
 
       .cont_titulo_decorativo.mt-5(data-aos="fade-right")
         .row
@@ -1628,7 +1628,7 @@
           .col-lg-4.mb-4.col-md-8(data-aos="zoom-in")
             .h-100.p-4.pt-5.text-white(style="background-color:#3A1D71;border-radius:12px;")
               p.fw-bold.mt-3 Proporcionar retroalimentación constante: 
-              p En las pruebas agiles la retroalimentación es continua de modo que el diseño del producto logre los propósitos del negocio requeridos.
+              p En las pruebas ágiles la retroalimentación es continua de modo que el diseño del producto logre los propósitos del negocio requeridos.
           .col-lg-4.mb-4.col-md-8(data-aos="zoom-in")
             figure.m-auto.col-9.col-md-8.col-lg-12
               img(src="@/assets/curso/tema2/90.svg")
@@ -1652,10 +1652,11 @@
           .h-100
             .titulo-sexto.color-acento-contenido
               h5 Figura 1.
-              span Ejemplo formato de registro de tiempo
+              span Cuadrantes de las pruebas ágiles
             .p-3.p-lg-5(style="background-color:#E8EEFE;border-radius:11px;")
               figure
                 img(src="@/assets/curso/tema2/91.svg" alt="La imagen muestra un formato de registro de tiempo utilizado en un entorno de trabajo. El formato está dividido en varias secciones claramente identificadas, incluyendo columnas para la fecha, hora de inicio, hora de finalización, duración, tarea realizada y comentarios adicionales.")
+              figcaption Nota. Tomado de https://lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/
     
     p.mt-4(data-aos="fade-right") Cada cuadrante involucra pruebas específicas, las cuales se distribuyen de acuerdo con los roles ejercidos, es así como se tienen dos tipos de pruebas:
 
@@ -1745,9 +1746,9 @@
             .row(titulo="Retroalimentación")
               p Permite identificar áreas de mejora y revisión constante de las prácticas implementadas en el proceso de forma, que puedan establecer procesos de mejora permanente.
             .row(titulo="Coraje")
-              p Se refiere al actuar sobre situaciones que pueden ser retadoras para el equipo como por ejemplo, enfrentar problemas organizacionales, intentar implementar funcionalidades de formas diferente cuando lo convencional no funciona, aceptar comentarios, etc.
+              p Se refiere al actuar sobre situaciones que pueden ser retadoras para el equipo como por ejemplo, enfrentar problemas organizacionales, intentar implementar funcionalidades de formas diferentes cuando lo convencional no funciona, aceptar comentarios, etc.
             .row(titulo="Respeto")
-              p Por medio de la transparencia y la inspección es posible fijar actividades de mejoras que permitan mejorar todo tipo de proceso, en pro de lograr más altos estándares de calidad. 
+              p Los miembros del equipo deben respetarse entre sí para comunicarse y trabajar en equipo. Cada persona contribuye en favor de lograr el objetivo del equipo. 
         .col-lg-5(data-aos="fade-left" style="place-self:center;")
           figure.m-auto.col-5.col-md-5.col-lg-12
             img(src="@/assets/curso/tema2/94.png") 

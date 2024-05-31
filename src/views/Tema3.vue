@@ -252,7 +252,7 @@
               td.text-center(style="border:1px #AFAFAF solid;") Descripción
               td(style="border:1px #AFAFAF solid;") Objetivo del caso de prueba, también describe qué probará; en ciertas ocasiones se incluye el ambiente de pruebas.
             tr(style="background-color:#F6F6F6;")
-              td.text-center(style="border:1px #AFAFAF solid;") Numero de orden ejecución 
+              td.text-center(style="border:1px #AFAFAF solid;") Número de orden ejecución 
               td(style="border:1px #AFAFAF solid;") Orden en la cual se ejecuta el caso de prueba, en la situación de que se tengan múltiples casos de prueba.
             tr(style="background-color:#F6F6F6;")
               td.text-center(style="border:1px #AFAFAF solid;") Requerimiento asociado

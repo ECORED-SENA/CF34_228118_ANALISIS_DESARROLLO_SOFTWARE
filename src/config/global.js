@@ -175,20 +175,6 @@ export default {
       tipo: 'Página web',
       link: 'https://mundotesting.com/plan-de-pruebas-de-software/',
     },
-    {
-      tema: '',
-      referencia: 'ISO/IEC/IEEE 29148:2011. (s. f.). ISO. ',
-      tipo: 'Página web',
-      link: 'https://www.iso.org/standard/45171.html',
-    },
-    {
-      tema: 'Calidad de <em>software</em> en metodologías ágiles',
-      referencia:
-        'Canós, J. H., Letelier, P., & Penad, C. (s.f.). <em>Metodologías Ágiles en el Desarrollo de Software</em>.',
-      tipo: 'Artículo',
-      link:
-        'http://aleteya.cs.buap.mx/~jlavalle/papers/agileMethodology/TodoAgil.pdf ',
-    },
   ],
   glosario: [
     {
@@ -253,7 +239,8 @@ export default {
     {
       referencia:
         'Mera Paz, J. A. (19 de 10 de 2016). <em>Pruebas de Calidad software</em>.',
-      link: 'https://repository.ucc.edu.co/handle/20.500.12494/962',
+      link:
+        'https://repository.ucc.edu.co/entities/publication/f01e5e34-05b3-43e5-8557-9a671fdd2852',
     },
     {
       referencia:

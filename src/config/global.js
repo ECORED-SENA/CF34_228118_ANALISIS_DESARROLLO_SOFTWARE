@@ -238,7 +238,7 @@ export default {
     },
     {
       referencia:
-        'Mera Paz, J. A. (19 de 10 de 2016). <em>Pruebas de Calidad software</em>.',
+        'Mera Paz, J. A. (2016). Análisis del proceso de pruebas de calidad de #[em software.]',
       link:
         'https://repository.ucc.edu.co/entities/publication/f01e5e34-05b3-43e5-8557-9a671fdd2852',
     },

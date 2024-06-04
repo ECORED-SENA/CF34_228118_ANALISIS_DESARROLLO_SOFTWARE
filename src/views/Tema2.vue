@@ -543,7 +543,7 @@
           .row(titulo="Equipo")
             p La calidad del #[em software] solo se logra con la contribución de todas las personas involucradas, es decir, que la calidad no es un proceso solo del equipo de aseguramiento de la calidad de #[em software], sino más bien una actividad sincrónica entre todas las personas que colaboran para el desarrollo del producto.
           .row(titulo="Planificación")
-            p La gestión y la planificación de la calidad debe ser eficaz y previamente definido y ejecutado, por lo tanto, se deben establecer procesos, estándares y una planeación claramente definida para poder asegurar la calidad del producto, donde contengan puntos de verificación y un proceso claro y definido que incluya qué, quíen, y cuándo, va a realizar la verificación o medición de la calidad. 
+            p La gestión y la planificación de la calidad debe ser eficaz y previamente definido y ejecutado, por lo tanto, se deben establecer procesos, estándares y una planeación claramente definida para poder asegurar la calidad del producto, donde contengan puntos de verificación y un proceso claro y definido que incluya qué, quién, y cuándo, va a realizar la verificación o medición de la calidad. 
       .col-lg-5(data-aos="fade-left" style="place-self:center;")
         figure.m-auto.col-7.col-md-7.col-lg-12.d-none.d-lg-block
           img(src="@/assets/curso/tema2/31.png")

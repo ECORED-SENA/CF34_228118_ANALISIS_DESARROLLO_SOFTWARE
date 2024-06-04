@@ -1459,7 +1459,10 @@
               .text-center 
                 figure
                   img(src="@/assets/curso/tema2/81.svg" style="max-width:120px;display:inline;margin-top:-55px;")
-              .p-4.pt-0.text-center.mt-4 amiento personal, debe velar porque los elementos propios del marco de trabajo Scrum se apliquen de manera correcta.
+              .p-4.pt-0.text-center.mt-4 
+                h4 Dueño del producto (#[em Product Owner])
+                p.mt-3 Persona con amplio conocimiento en el negocio del cliente, sus necesidades y las tendencias del mercado para el área específica. Este rol está encargado de maximizar el valor de negocio entregado al cliente y es el único responsable del control del “Product Backlog” (requerimientos) y su priorización. Este rol también representa al cliente en algunos procesos de demostración de avances y determina cuándo aprobar o no una entrega.
+
           .col-lg.col-md-8(data-aos="zoom-in")
             .h-100.cont_hover1(style="background-color:#DCECFE;border-radius:12px;")
               .text-center 
@@ -1467,9 +1470,8 @@
                   img(src="@/assets/curso/tema2/83.svg" style="max-width:120px;display:inline;margin-top:-55px;")
               .p-4.pt-0.text-center.mt-4 
                 h4 Equipo de desarrollo (#[em Developer team])
-                p.mt-3 Son los responsables de la transformación de los requerimientos en código ejecutable a ser usado por el cliente, pero también son responsables de la planificación de las iteraciones y establecimiento de características para tener en cuenta en 
-                h4 Dueño del producto (#[em Product Owner])
-                p.mt-3 Persona con amplio conocimiento en el negocio del cliente, sus necesidades y las tendencias del mercado para el área específica. Este rol está encargado de maximizar el valor de negocio entregado al cliente y es el único responsable del control del #[em Product Backlog] (requerimientos) y su priorización. Este rol también representa al cliente en algunos procesos de demostración de avances y determina cuándo aprobar o no una entrega.
+                p.mt-3 Son los responsables de la transformación de los requerimientos en código ejecutable a ser usado por el cliente, pero también son responsables de la planificación de las iteraciones y establecimiento de características para tener en cuenta en la verificación de un requerimiento terminado y presentación de avances a los clientes. Generalmente es un equipo autoorganizado y autogestionado.
+
           .col-lg.col-md-8.mb-5.mb-lg-0(data-aos="zoom-in")
             .h-100.cont_hover1(style="background-color:#DCECFE;border-radius:12px;")
               .text-center 
@@ -1477,7 +1479,7 @@
                   img(src="@/assets/curso/tema2/82.svg" style="max-width:120px;display:inline;margin-top:-55px;")
               .p-4.pt-0.text-center.mt-4 
                 h4 #[em Scrum Master]
-                p.mt-3 Es un rol que se encarga de facilitar los procesos al interior del equipo de trabajo, removiendo cualquier impedimento y apoyando procesos de empoderla verificación de un requerimiento terminado y presentación de avances a los clientes. Generalmente es un equipo autoorganizado y autogestionado.
+                p.mt-3 Es un rol que se encarga de facilitar los procesos al interior del equipo de trabajo, removiendo cualquier impedimento y apoyando procesos de empoderamiento personal, debe velar porque los elementos propios del marco de trabajo “Scrum” se apliquen de manera correcta.
         .semicircle_absolute.d-none.d-md-block(style="top: unset !important;bottom: -40px;")
       p.mt-5(data-aos="fade-right" style="position:relative;") Además de los roles, Scrum define un conjunto de eventos con participantes y objetivos claros que se desarrollan en momentos particulares del flujo general de Scrum, a continuación, se detalla cada uno de estos eventos:
 

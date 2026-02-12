@@ -168,13 +168,6 @@ export default {
       tipo: 'Artículo',
       link: 'https://scielo.pt/pdf/rist/n20/n20a06.pdf ',
     },
-    {
-      tema: 'Diseñar los instrumentos de calidad de <em>software</em>',
-      referencia:
-        'Ch Ga, F. (2017). <em>Plan de pruebas de software</em>. Mundo Testing.',
-      tipo: 'Página web',
-      link: 'https://mundotesting.com/plan-de-pruebas-de-software/',
-    },
   ],
   glosario: [
     {
@@ -208,7 +201,8 @@ export default {
     {
       referencia:
         'Bustamante Ramírez, J. (2011). <em>Sistema de informes para pruebas de software</em>',
-      link: 'http://bibliotecadigital.iue.edu.co/xmlui/handle/20.500.12717/153',
+      link:
+        'https://bibliotecadigital.iue.edu.co/server/api/core/bitstreams/73074146-4398-4964-8da7-8119cfdf73de/content',
     },
     {
       referencia:
